@@ -11,6 +11,7 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AbdullaTech06/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
