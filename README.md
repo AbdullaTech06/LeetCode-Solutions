@@ -31,6 +31,7 @@ pushing leetcode submissions over here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/AbdullaTech06/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ pushing leetcode submissions over here
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0118-pascals-triangle](https://github.com/AbdullaTech06/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
