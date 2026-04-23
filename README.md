@@ -34,6 +34,7 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/AbdullaTech06/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ pushing leetcode submissions over here
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/AbdullaTech06/leetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
