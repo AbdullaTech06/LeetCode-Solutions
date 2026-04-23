@@ -120,6 +120,7 @@ pushing leetcode submissions over here
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -149,4 +150,8 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
