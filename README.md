@@ -51,6 +51,7 @@ pushing leetcode submissions over here
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/AbdullaTech06/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AbdullaTech06/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/AbdullaTech06/leetcode/tree/main/0018-4sum/) | Medium |
@@ -105,6 +106,7 @@ pushing leetcode submissions over here
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -129,6 +131,7 @@ pushing leetcode submissions over here
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
