@@ -45,6 +45,7 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AbdullaTech06/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
