@@ -9,6 +9,7 @@ pushing leetcode submissions over here
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@ pushing leetcode submissions over here
 | [0008-string-to-integer-atoi](https://github.com/AbdullaTech06/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -167,5 +169,6 @@ pushing leetcode submissions over here
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 <!---LeetCode Topics End-->
