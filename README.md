@@ -105,11 +105,13 @@ pushing leetcode submissions over here
 | [0011-container-with-most-water](https://github.com/AbdullaTech06/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/AbdullaTech06/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/AbdullaTech06/leetcode/tree/main/0018-4sum/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Search
@@ -169,6 +171,7 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,5 +181,6 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
