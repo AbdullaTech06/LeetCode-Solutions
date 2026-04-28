@@ -135,6 +135,7 @@ pushing leetcode submissions over here
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Matrix
@@ -170,6 +171,7 @@ pushing leetcode submissions over here
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -181,6 +183,7 @@ pushing leetcode submissions over here
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
