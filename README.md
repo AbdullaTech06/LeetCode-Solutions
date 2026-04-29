@@ -144,6 +144,7 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -182,6 +183,7 @@ pushing leetcode submissions over here
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1922-count-good-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
