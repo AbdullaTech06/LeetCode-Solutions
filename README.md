@@ -18,6 +18,7 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AbdullaTech06/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -42,6 +43,7 @@ pushing leetcode submissions over here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0118-pascals-triangle](https://github.com/AbdullaTech06/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
@@ -209,4 +211,8 @@ pushing leetcode submissions over here
 | [0328-odd-even-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
