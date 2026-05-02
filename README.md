@@ -69,6 +69,7 @@ pushing leetcode submissions over here
 | [0033-search-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -226,4 +227,5 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
