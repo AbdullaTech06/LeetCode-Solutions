@@ -14,19 +14,14 @@ set<vector<int>> s;
         }
 
         combin.push_back(arr[idx]);
-
-        //single
-        getAllCombinations(arr,idx+1,tar-arr[idx],ans,combin);
-        //multiple
         getAllCombinations(arr,idx,tar-arr[idx],ans,combin);
-
         combin.pop_back();
-        //exxclusion
         getAllCombinations(arr,idx+1,tar,ans,combin);
     }
     vector<vector<int>> combinationSum(vector<int>& arr, int target) {
         vector<vector<int>> ans;
         vector<int> combin;
+        sort(arr.begin(),arr.end());
         getAllCombinations(arr,0,target,ans,combin);
 
         return ans;
