@@ -113,6 +113,7 @@ pushing leetcode submissions over here
 | [0015-3sum](https://github.com/AbdullaTech06/leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/AbdullaTech06/leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdullaTech06/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/AbdullaTech06/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AbdullaTech06/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/AbdullaTech06/leetcode/tree/main/0148-sort-list/) | Medium |
@@ -206,6 +207,7 @@ pushing leetcode submissions over here
 | [0002-add-two-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdullaTech06/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/AbdullaTech06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/AbdullaTech06/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AbdullaTech06/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/AbdullaTech06/leetcode/tree/main/0148-sort-list/) | Medium |
