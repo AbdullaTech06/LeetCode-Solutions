@@ -91,6 +91,7 @@ pushing leetcode submissions over here
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdullaTech06/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdullaTech06/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AbdullaTech06/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AbdullaTech06/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -105,6 +106,7 @@ pushing leetcode submissions over here
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ pushing leetcode submissions over here
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -150,6 +153,7 @@ pushing leetcode submissions over here
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdullaTech06/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdullaTech06/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AbdullaTech06/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Math
