@@ -135,6 +135,7 @@ pushing leetcode submissions over here
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -250,4 +251,12 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/AbdullaTech06/leetcode/tree/main/0204-count-primes/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
