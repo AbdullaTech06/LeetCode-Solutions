@@ -1,18 +1,16 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        unordered_set<int> s;
-        for(int i=0;i<nums.size();i++){
-            if(!s.count(nums[i])){
-                s.insert(nums[i]);
-            }else{
-                s.erase(nums[i]);
-            }
+        long xorsum=0;
+        for(int it: nums){
+            xorsum^=it;
         }
-        vector<int> ans;
-        for(auto it : s){
-            ans.push_back(it);
+        int x = (xorsum&(xorsum-1))^xorsum;
+        int a=0,b=0;
+        for(int it : nums){
+            if((it&x)==x)a^=it;
+            else b^=it;
         }
-        return ans;
+        return {a,b};
     }
 };
