@@ -58,6 +58,7 @@ pushing leetcode submissions over here
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0260-single-number-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AbdullaTech06/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
@@ -87,6 +88,7 @@ pushing leetcode submissions over here
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0204-count-primes](https://github.com/AbdullaTech06/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0260-single-number-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
