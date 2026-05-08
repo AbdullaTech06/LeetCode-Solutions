@@ -97,6 +97,7 @@ pushing leetcode submissions over here
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/AbdullaTech06/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AbdullaTech06/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -159,6 +160,7 @@ pushing leetcode submissions over here
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -295,4 +297,8 @@ pushing leetcode submissions over here
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
