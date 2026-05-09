@@ -7,7 +7,7 @@ public:
             if(isPrime[i]){
                 count++;
 
-                for(int j=2*i;j<n;j+=i){
+                for(long long j=1LL*i*i;j<n;j+=i){
                     isPrime[j] = false;
                 }
             }
