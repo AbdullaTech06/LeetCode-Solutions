@@ -86,6 +86,7 @@ pushing leetcode submissions over here
 | [0039-combination-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AbdullaTech06/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/AbdullaTech06/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0056-merge-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -286,6 +287,7 @@ pushing leetcode submissions over here
 | [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/AbdullaTech06/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Depth-First Search
