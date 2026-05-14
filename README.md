@@ -18,6 +18,7 @@ pushing leetcode submissions over here
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AbdullaTech06/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -300,6 +301,7 @@ pushing leetcode submissions over here
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Backtracking
@@ -333,6 +335,7 @@ pushing leetcode submissions over here
 | [0155-min-stack](https://github.com/AbdullaTech06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbdullaTech06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/AbdullaTech06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -376,4 +379,5 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
