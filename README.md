@@ -109,6 +109,7 @@ pushing leetcode submissions over here
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0204-count-primes](https://github.com/AbdullaTech06/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AbdullaTech06/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -211,6 +212,7 @@ pushing leetcode submissions over here
 | [0074-search-a-2d-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
