@@ -9,6 +9,7 @@ pushing leetcode submissions over here
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdullaTech06/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/AbdullaTech06/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/AbdullaTech06/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdullaTech06/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AbdullaTech06/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -34,6 +35,7 @@ pushing leetcode submissions over here
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AbdullaTech06/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0076-minimum-window-substring](https://github.com/AbdullaTech06/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
@@ -291,6 +293,7 @@ pushing leetcode submissions over here
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/AbdullaTech06/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/AbdullaTech06/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AbdullaTech06/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
