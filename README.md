@@ -22,6 +22,7 @@ pushing leetcode submissions over here
 | [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AbdullaTech06/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -63,6 +64,7 @@ pushing leetcode submissions over here
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AbdullaTech06/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
@@ -132,6 +134,7 @@ pushing leetcode submissions over here
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/AbdullaTech06/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
@@ -171,6 +174,7 @@ pushing leetcode submissions over here
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -317,6 +321,7 @@ pushing leetcode submissions over here
 | [0209-minimum-size-subarray-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AbdullaTech06/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/AbdullaTech06/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/AbdullaTech06/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -409,6 +414,7 @@ pushing leetcode submissions over here
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/AbdullaTech06/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
