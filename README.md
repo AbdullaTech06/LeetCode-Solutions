@@ -29,6 +29,7 @@ pushing leetcode submissions over here
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -155,6 +156,7 @@ pushing leetcode submissions over here
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AbdullaTech06/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AbdullaTech06/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Sorting
@@ -200,6 +202,7 @@ pushing leetcode submissions over here
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1861-rotating-the-box](https://github.com/AbdullaTech06/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +245,7 @@ pushing leetcode submissions over here
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AbdullaTech06/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
