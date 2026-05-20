@@ -395,6 +395,7 @@ pushing leetcode submissions over here
 | [0232-implement-queue-using-stacks](https://github.com/AbdullaTech06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/AbdullaTech06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -428,6 +429,7 @@ pushing leetcode submissions over here
 | [0347-top-k-frequent-elements](https://github.com/AbdullaTech06/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +438,7 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/AbdullaTech06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -455,4 +458,16 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbdullaTech06/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
