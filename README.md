@@ -50,6 +50,7 @@ pushing leetcode submissions over here
 | [0402-remove-k-digits](https://github.com/AbdullaTech06/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -70,6 +71,7 @@ pushing leetcode submissions over here
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AbdullaTech06/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
@@ -86,6 +88,7 @@ pushing leetcode submissions over here
 | [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -234,6 +237,7 @@ pushing leetcode submissions over here
 | [0402-remove-k-digits](https://github.com/AbdullaTech06/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/AbdullaTech06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
