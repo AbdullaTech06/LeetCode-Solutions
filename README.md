@@ -167,6 +167,7 @@ pushing leetcode submissions over here
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdullaTech06/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/AbdullaTech06/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -452,6 +453,7 @@ pushing leetcode submissions over here
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/AbdullaTech06/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
