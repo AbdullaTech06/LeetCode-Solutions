@@ -126,6 +126,7 @@ pushing leetcode submissions over here
 | [0051-n-queens](https://github.com/AbdullaTech06/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0055-jump-game](https://github.com/AbdullaTech06/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/AbdullaTech06/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/AbdullaTech06/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
