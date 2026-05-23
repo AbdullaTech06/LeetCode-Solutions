@@ -243,6 +243,7 @@ pushing leetcode submissions over here
 | [0042-trapping-rain-water](https://github.com/AbdullaTech06/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/AbdullaTech06/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/AbdullaTech06/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/AbdullaTech06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbdullaTech06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -402,6 +403,7 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +491,7 @@ pushing leetcode submissions over here
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -497,5 +500,6 @@ pushing leetcode submissions over here
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
