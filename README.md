@@ -46,6 +46,7 @@ pushing leetcode submissions over here
 | [0076-minimum-window-substring](https://github.com/AbdullaTech06/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/AbdullaTech06/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -401,6 +402,7 @@ pushing leetcode submissions over here
 | [0052-n-queens-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AbdullaTech06/leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -414,6 +416,7 @@ pushing leetcode submissions over here
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -512,6 +515,7 @@ pushing leetcode submissions over here
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
@@ -531,6 +535,7 @@ pushing leetcode submissions over here
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
