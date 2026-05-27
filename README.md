@@ -54,6 +54,7 @@ pushing leetcode submissions over here
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/AbdullaTech06/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -438,6 +439,7 @@ pushing leetcode submissions over here
 | [0199-binary-tree-right-side-view](https://github.com/AbdullaTech06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -459,6 +461,7 @@ pushing leetcode submissions over here
 | [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AbdullaTech06/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0355-design-twitter](https://github.com/AbdullaTech06/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -549,6 +552,7 @@ pushing leetcode submissions over here
 | [0222-count-complete-tree-nodes](https://github.com/AbdullaTech06/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -579,6 +583,7 @@ pushing leetcode submissions over here
 | [0222-count-complete-tree-nodes](https://github.com/AbdullaTech06/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
@@ -595,6 +600,7 @@ pushing leetcode submissions over here
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AbdullaTech06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
