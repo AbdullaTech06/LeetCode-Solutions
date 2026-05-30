@@ -107,6 +107,7 @@ pushing leetcode submissions over here
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Bit Manipulation
@@ -168,6 +169,7 @@ pushing leetcode submissions over here
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -331,6 +333,7 @@ pushing leetcode submissions over here
 | [0074-search-a-2d-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/AbdullaTech06/leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/AbdullaTech06/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/AbdullaTech06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/AbdullaTech06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/AbdullaTech06/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -658,6 +661,7 @@ pushing leetcode submissions over here
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AbdullaTech06/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbdullaTech06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdullaTech06/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
