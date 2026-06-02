@@ -99,6 +99,7 @@ pushing leetcode submissions over here
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AbdullaTech06/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AbdullaTech06/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +222,7 @@ pushing leetcode submissions over here
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdullaTech06/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +247,7 @@ pushing leetcode submissions over here
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +279,7 @@ pushing leetcode submissions over here
 | [1861-rotating-the-box](https://github.com/AbdullaTech06/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +331,7 @@ pushing leetcode submissions over here
 | [1539-kth-missing-positive-number](https://github.com/AbdullaTech06/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
