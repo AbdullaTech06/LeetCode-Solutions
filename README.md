@@ -117,6 +117,7 @@ pushing leetcode submissions over here
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -502,6 +503,7 @@ pushing leetcode submissions over here
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/AbdullaTech06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/AbdullaTech06/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbdullaTech06/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -566,6 +568,7 @@ pushing leetcode submissions over here
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/AbdullaTech06/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -710,6 +713,7 @@ pushing leetcode submissions over here
 | [0662-maximum-width-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/AbdullaTech06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/AbdullaTech06/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbdullaTech06/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -737,6 +741,7 @@ pushing leetcode submissions over here
 | [0210-course-schedule-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/AbdullaTech06/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/AbdullaTech06/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbdullaTech06/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -744,4 +749,8 @@ pushing leetcode submissions over here
 | [0207-course-schedule](https://github.com/AbdullaTech06/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbdullaTech06/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
