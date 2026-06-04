@@ -110,6 +110,7 @@ pushing leetcode submissions over here
 | [0042-trapping-rain-water](https://github.com/AbdullaTech06/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/AbdullaTech06/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/AbdullaTech06/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/AbdullaTech06/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/AbdullaTech06/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -138,6 +139,7 @@ pushing leetcode submissions over here
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/AbdullaTech06/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Array
@@ -356,6 +358,7 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0070-climbing-stairs](https://github.com/AbdullaTech06/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/AbdullaTech06/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0282-expression-add-operators](https://github.com/AbdullaTech06/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
