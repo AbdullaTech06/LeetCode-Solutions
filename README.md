@@ -237,6 +237,7 @@ pushing leetcode submissions over here
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdullaTech06/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -414,6 +415,7 @@ pushing leetcode submissions over here
 | [0994-rotting-oranges](https://github.com/AbdullaTech06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/AbdullaTech06/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1861-rotating-the-box](https://github.com/AbdullaTech06/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -792,6 +794,7 @@ pushing leetcode submissions over here
 | [0994-rotting-oranges](https://github.com/AbdullaTech06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdullaTech06/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AbdullaTech06/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
