@@ -128,6 +128,7 @@ pushing leetcode submissions over here
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -204,6 +205,7 @@ pushing leetcode submissions over here
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -523,6 +525,7 @@ pushing leetcode submissions over here
 | [0216-combination-sum-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
 | [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0282-expression-add-operators](https://github.com/AbdullaTech06/leetcode/tree/main/0282-expression-add-operators/) | Hard |
+| [0494-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0494-target-sum/) | Medium |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AbdullaTech06/leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
