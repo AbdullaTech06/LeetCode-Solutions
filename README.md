@@ -111,6 +111,7 @@ pushing leetcode submissions over here
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/AbdullaTech06/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@ pushing leetcode submissions over here
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/AbdullaTech06/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
