@@ -112,6 +112,7 @@ pushing leetcode submissions over here
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdullaTech06/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +282,7 @@ pushing leetcode submissions over here
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdullaTech06/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +460,7 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -657,6 +660,7 @@ pushing leetcode submissions over here
 | [1046-last-stone-weight](https://github.com/AbdullaTech06/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
