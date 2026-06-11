@@ -413,6 +413,7 @@ pushing leetcode submissions over here
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AbdullaTech06/leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdullaTech06/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdullaTech06/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AbdullaTech06/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -594,6 +595,7 @@ pushing leetcode submissions over here
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdullaTech06/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AbdullaTech06/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdullaTech06/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -730,6 +732,7 @@ pushing leetcode submissions over here
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdullaTech06/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AbdullaTech06/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdullaTech06/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
