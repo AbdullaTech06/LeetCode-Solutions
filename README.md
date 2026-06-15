@@ -35,6 +35,7 @@ pushing leetcode submissions over here
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/AbdullaTech06/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbdullaTech06/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -598,6 +599,7 @@ pushing leetcode submissions over here
 | [0802-find-eventual-safe-states](https://github.com/AbdullaTech06/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/AbdullaTech06/leetcode/tree/main/0827-making-a-large-island/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbdullaTech06/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/AbdullaTech06/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -851,6 +853,7 @@ pushing leetcode submissions over here
 | [0778-swim-in-rising-water](https://github.com/AbdullaTech06/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/AbdullaTech06/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/AbdullaTech06/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbdullaTech06/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdullaTech06/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdullaTech06/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -865,6 +868,7 @@ pushing leetcode submissions over here
 | [0785-is-graph-bipartite](https://github.com/AbdullaTech06/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/AbdullaTech06/leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbdullaTech06/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/AbdullaTech06/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdullaTech06/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbdullaTech06/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
