@@ -580,6 +580,7 @@ pushing leetcode submissions over here
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/AbdullaTech06/leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -730,6 +731,7 @@ pushing leetcode submissions over here
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -787,6 +789,7 @@ pushing leetcode submissions over here
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -820,6 +823,7 @@ pushing leetcode submissions over here
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0126-word-ladder-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/AbdullaTech06/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/AbdullaTech06/leetcode/tree/main/0130-surrounded-regions/) | Medium |
