@@ -38,6 +38,7 @@ pushing leetcode submissions over here
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbdullaTech06/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -79,6 +80,7 @@ pushing leetcode submissions over here
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/AbdullaTech06/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -333,6 +335,7 @@ pushing leetcode submissions over here
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Two Pointers
