@@ -30,6 +30,7 @@ pushing leetcode submissions over here
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdullaTech06/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0697-degree-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -240,6 +241,7 @@ pushing leetcode submissions over here
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/AbdullaTech06/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0697-degree-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/AbdullaTech06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
