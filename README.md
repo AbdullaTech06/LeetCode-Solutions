@@ -162,6 +162,7 @@ pushing leetcode submissions over here
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbdullaTech06/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbdullaTech06/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AbdullaTech06/leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdullaTech06/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AbdullaTech06/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
@@ -511,6 +512,7 @@ pushing leetcode submissions over here
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AbdullaTech06/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AbdullaTech06/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/AbdullaTech06/leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
