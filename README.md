@@ -52,6 +52,7 @@ pushing leetcode submissions over here
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdullaTech06/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdullaTech06/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +304,7 @@ pushing leetcode submissions over here
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbdullaTech06/leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/AbdullaTech06/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -343,6 +345,7 @@ pushing leetcode submissions over here
 | [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,6 +489,7 @@ pushing leetcode submissions over here
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/AbdullaTech06/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,12 +499,14 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/AbdullaTech06/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -518,6 +524,7 @@ pushing leetcode submissions over here
 | [1732-find-the-highest-altitude](https://github.com/AbdullaTech06/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AbdullaTech06/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AbdullaTech06/leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
