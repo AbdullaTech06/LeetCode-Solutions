@@ -111,6 +111,7 @@ pushing leetcode submissions over here
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/AbdullaTech06/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -246,6 +247,7 @@ pushing leetcode submissions over here
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/AbdullaTech06/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/AbdullaTech06/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
