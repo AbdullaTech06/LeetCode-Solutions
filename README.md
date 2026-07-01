@@ -451,6 +451,7 @@ pushing leetcode submissions over here
 | [0209-minimum-size-subarray-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/AbdullaTech06/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/AbdullaTech06/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -982,4 +983,8 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/AbdullaTech06/leetcode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AbdullaTech06/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
