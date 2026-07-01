@@ -326,6 +326,7 @@ pushing leetcode submissions over here
 | [2574-left-and-right-sum-differences](https://github.com/AbdullaTech06/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbdullaTech06/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdullaTech06/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -468,6 +469,7 @@ pushing leetcode submissions over here
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
@@ -518,6 +520,7 @@ pushing leetcode submissions over here
 | [1672-richest-customer-wealth](https://github.com/AbdullaTech06/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1861-rotating-the-box](https://github.com/AbdullaTech06/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -756,6 +759,7 @@ pushing leetcode submissions over here
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1046-last-stone-weight](https://github.com/AbdullaTech06/leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Monotonic Queue
@@ -925,6 +929,7 @@ pushing leetcode submissions over here
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdullaTech06/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AbdullaTech06/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -943,6 +948,7 @@ pushing leetcode submissions over here
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AbdullaTech06/leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdullaTech06/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
