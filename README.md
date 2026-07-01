@@ -40,6 +40,7 @@ pushing leetcode submissions over here
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AbdullaTech06/leetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -84,6 +85,7 @@ pushing leetcode submissions over here
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/AbdullaTech06/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -173,6 +175,7 @@ pushing leetcode submissions over here
 | [0787-cheapest-flights-within-k-stops](https://github.com/AbdullaTech06/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/AbdullaTech06/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
@@ -289,6 +292,7 @@ pushing leetcode submissions over here
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdullaTech06/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/AbdullaTech06/leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -354,6 +358,7 @@ pushing leetcode submissions over here
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -396,6 +401,7 @@ pushing leetcode submissions over here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdullaTech06/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1861-rotating-the-box](https://github.com/AbdullaTech06/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
