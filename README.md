@@ -302,6 +302,7 @@ pushing leetcode submissions over here
 | [1091-shortest-path-in-binary-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/AbdullaTech06/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -370,6 +371,7 @@ pushing leetcode submissions over here
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
