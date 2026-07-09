@@ -55,6 +55,7 @@ pushing leetcode submissions over here
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdullaTech06/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbdullaTech06/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
@@ -343,6 +344,7 @@ pushing leetcode submissions over here
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbdullaTech06/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -482,6 +484,7 @@ pushing leetcode submissions over here
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -979,6 +982,7 @@ pushing leetcode submissions over here
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdullaTech06/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -997,6 +1001,7 @@ pushing leetcode submissions over here
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbdullaTech06/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AbdullaTech06/leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
