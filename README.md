@@ -249,6 +249,7 @@ pushing leetcode submissions over here
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/AbdullaTech06/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/AbdullaTech06/leetcode/tree/main/0139-word-break/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdullaTech06/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -445,6 +446,7 @@ pushing leetcode submissions over here
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdullaTech06/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/AbdullaTech06/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/AbdullaTech06/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/AbdullaTech06/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -504,6 +506,7 @@ pushing leetcode submissions over here
 | [0050-powx-n](https://github.com/AbdullaTech06/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/AbdullaTech06/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AbdullaTech06/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/AbdullaTech06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/AbdullaTech06/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0282-expression-add-operators](https://github.com/AbdullaTech06/leetcode/tree/main/0282-expression-add-operators/) | Hard |
