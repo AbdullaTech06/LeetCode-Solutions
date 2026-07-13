@@ -77,6 +77,7 @@ pushing leetcode submissions over here
 | [0257-binary-tree-paths](https://github.com/AbdullaTech06/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0282-expression-add-operators](https://github.com/AbdullaTech06/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0402-remove-k-digits](https://github.com/AbdullaTech06/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -430,6 +431,7 @@ pushing leetcode submissions over here
 | [0202-happy-number](https://github.com/AbdullaTech06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AbdullaTech06/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
