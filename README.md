@@ -195,6 +195,7 @@ pushing leetcode submissions over here
 | [1301-number-of-paths-with-max-score](https://github.com/AbdullaTech06/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbdullaTech06/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbdullaTech06/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdullaTech06/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -327,6 +328,7 @@ pushing leetcode submissions over here
 | [1441-build-an-array-with-stack-operations](https://github.com/AbdullaTech06/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/AbdullaTech06/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdullaTech06/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AbdullaTech06/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdullaTech06/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -670,6 +672,7 @@ pushing leetcode submissions over here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdullaTech06/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
