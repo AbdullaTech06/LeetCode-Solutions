@@ -95,6 +95,7 @@ pushing leetcode submissions over here
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/AbdullaTech06/leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/AbdullaTech06/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -136,6 +137,7 @@ pushing leetcode submissions over here
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AbdullaTech06/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdullaTech06/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -490,6 +492,7 @@ pushing leetcode submissions over here
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AbdullaTech06/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AbdullaTech06/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -817,6 +820,7 @@ pushing leetcode submissions over here
 | [0901-online-stock-span](https://github.com/AbdullaTech06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/AbdullaTech06/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
