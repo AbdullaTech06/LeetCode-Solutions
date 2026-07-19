@@ -1,22 +1,16 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        int n=nums.size();
-        sort(nums.begin(),nums.end());
-        int i=0;
-        int j=n-1;
-        int ops=0;
-        while(i<j){
-            if(nums[i]+nums[j]>k){
-                j--;
-            }else if(nums[i]+nums[j]<k){
-                i++;
-            }else{
-                ops+=1;
-                i++;
-                j--;
-            }
+        unordered_map<int,int> freq;
+        for(int x : nums)freq[x]++;
+        int ans = 0;
+
+        for(auto &[x, cnt]:freq){
+            int y=k-x;
+            if(freq.find(y)==freq.end())continue;
+            if(x==y) ans+=freq[x]/2;
+            else if(x<y)ans+=min(freq[x],freq[y]);
         }
-        return ops;
+        return ans;
     }
 };
