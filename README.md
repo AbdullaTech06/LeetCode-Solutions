@@ -110,6 +110,7 @@ pushing leetcode submissions over here
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AbdullaTech06/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AbdullaTech06/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdullaTech06/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdullaTech06/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -151,6 +152,7 @@ pushing leetcode submissions over here
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AbdullaTech06/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AbdullaTech06/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -581,6 +583,7 @@ pushing leetcode submissions over here
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdullaTech06/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/AbdullaTech06/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AbdullaTech06/leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbdullaTech06/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdullaTech06/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
