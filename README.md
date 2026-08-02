@@ -292,6 +292,7 @@ pushing leetcode submissions over here
 | [0213-house-robber-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0228-summary-ranges](https://github.com/AbdullaTech06/leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/AbdullaTech06/leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0260-single-number-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
