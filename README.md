@@ -283,6 +283,7 @@ pushing leetcode submissions over here
 | [0152-maximum-product-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdullaTech06/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/AbdullaTech06/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AbdullaTech06/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/AbdullaTech06/leetcode/tree/main/0198-house-robber/) | Medium |
@@ -483,6 +484,7 @@ pushing leetcode submissions over here
 | [0142-linked-list-cycle-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/AbdullaTech06/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdullaTech06/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/AbdullaTech06/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -547,6 +549,7 @@ pushing leetcode submissions over here
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AbdullaTech06/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/AbdullaTech06/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
