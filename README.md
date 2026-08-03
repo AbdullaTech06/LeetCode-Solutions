@@ -214,6 +214,7 @@ pushing leetcode submissions over here
 | [1301-number-of-paths-with-max-score](https://github.com/AbdullaTech06/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AbdullaTech06/leetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AbdullaTech06/leetcode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbdullaTech06/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdullaTech06/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -352,6 +353,7 @@ pushing leetcode submissions over here
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/AbdullaTech06/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbdullaTech06/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/AbdullaTech06/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -595,6 +597,7 @@ pushing leetcode submissions over here
 | [0877-stone-game](https://github.com/AbdullaTech06/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbdullaTech06/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdullaTech06/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -1173,4 +1176,13 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AbdullaTech06/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AbdullaTech06/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
