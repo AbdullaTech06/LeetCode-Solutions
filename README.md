@@ -58,6 +58,7 @@ pushing leetcode submissions over here
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbdullaTech06/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdullaTech06/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdullaTech06/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdullaTech06/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbdullaTech06/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -117,6 +118,7 @@ pushing leetcode submissions over here
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AbdullaTech06/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdullaTech06/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdullaTech06/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdullaTech06/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -766,6 +768,7 @@ pushing leetcode submissions over here
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdullaTech06/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdullaTech06/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
