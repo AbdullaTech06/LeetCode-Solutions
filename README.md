@@ -46,6 +46,7 @@ pushing leetcode submissions over here
 | [1248-count-number-of-nice-subarrays](https://github.com/AbdullaTech06/leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdullaTech06/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -157,6 +158,7 @@ pushing leetcode submissions over here
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdullaTech06/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
@@ -248,6 +250,7 @@ pushing leetcode submissions over here
 | [0260-single-number-iii](https://github.com/AbdullaTech06/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0389-find-the-difference](https://github.com/AbdullaTech06/leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0397-integer-replacement](https://github.com/AbdullaTech06/leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AbdullaTech06/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbdullaTech06/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -371,6 +374,7 @@ pushing leetcode submissions over here
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/AbdullaTech06/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AbdullaTech06/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
