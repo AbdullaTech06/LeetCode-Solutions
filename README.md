@@ -114,6 +114,7 @@ pushing leetcode submissions over here
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AbdullaTech06/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AbdullaTech06/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -161,6 +162,7 @@ pushing leetcode submissions over here
 | [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdullaTech06/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AbdullaTech06/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AbdullaTech06/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -639,6 +641,7 @@ pushing leetcode submissions over here
 | [1563-stone-game-v](https://github.com/AbdullaTech06/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1922-count-good-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/1922-count-good-numbers/) | Medium |
+| [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdullaTech06/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2469-convert-the-temperature](https://github.com/AbdullaTech06/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -1237,6 +1240,7 @@ pushing leetcode submissions over here
 | [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AbdullaTech06/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbdullaTech06/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
