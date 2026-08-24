@@ -234,6 +234,7 @@ pushing leetcode submissions over here
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1510-stone-game-iv](https://github.com/AbdullaTech06/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbdullaTech06/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AbdullaTech06/leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdullaTech06/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdullaTech06/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -400,6 +401,7 @@ pushing leetcode submissions over here
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdullaTech06/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1861-rotating-the-box](https://github.com/AbdullaTech06/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -640,6 +642,7 @@ pushing leetcode submissions over here
 | [1510-stone-game-iv](https://github.com/AbdullaTech06/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbdullaTech06/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1922-count-good-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdullaTech06/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -754,6 +757,7 @@ pushing leetcode submissions over here
 | [1480-running-sum-of-1d-array](https://github.com/AbdullaTech06/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AbdullaTech06/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/AbdullaTech06/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/AbdullaTech06/leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbdullaTech06/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -1240,6 +1244,7 @@ pushing leetcode submissions over here
 | [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AbdullaTech06/leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/AbdullaTech06/leetcode/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
@@ -1248,6 +1253,7 @@ pushing leetcode submissions over here
 | [1140-stone-game-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AbdullaTech06/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -1255,6 +1261,7 @@ pushing leetcode submissions over here
 | [1140-stone-game-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/AbdullaTech06/leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
