@@ -830,6 +830,7 @@ pushing leetcode submissions over here
 | [0355-design-twitter](https://github.com/AbdullaTech06/leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0460-lfu-cache](https://github.com/AbdullaTech06/leetcode/tree/main/0460-lfu-cache/) | Hard |
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AbdullaTech06/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Backtracking
