@@ -463,6 +463,7 @@ pushing leetcode submissions over here
 | [3838-weighted-word-mapping](https://github.com/AbdullaTech06/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -688,6 +689,7 @@ pushing leetcode submissions over here
 | [3857-minimum-cost-to-split-into-ones](https://github.com/AbdullaTech06/leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
