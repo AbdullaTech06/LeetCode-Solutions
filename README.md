@@ -362,6 +362,7 @@ pushing leetcode submissions over here
 | [0746-min-cost-climbing-stairs](https://github.com/AbdullaTech06/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/AbdullaTech06/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/AbdullaTech06/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [0835-image-overlap](https://github.com/AbdullaTech06/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AbdullaTech06/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/AbdullaTech06/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -715,6 +716,7 @@ pushing leetcode submissions over here
 | [0733-flood-fill](https://github.com/AbdullaTech06/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/AbdullaTech06/leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/AbdullaTech06/leetcode/tree/main/0827-making-a-large-island/) | Hard |
+| [0835-image-overlap](https://github.com/AbdullaTech06/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/AbdullaTech06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
