@@ -1,0 +1,35 @@
+class Solution {
+public:
+    bool isPalindrome(const string& s, int i, int j) {
+        while(i<j){
+            if(s[i++]!=s[j--])return false;
+        }
+        return true;
+    }
+
+    int solve(const string& s, int k, int i, int j, vector<vector<int>>& t) {
+        int n=s.size();
+        if(i>=n || j>=n)return 0;
+        if(t[i][j]!=-1)return t[i][j];
+
+        if(isPalindrome(s, i, j)){
+            int grow=solve(s,k,i,j+1,t);
+            int take=1+solve(s,k,j+1,j+k,t);
+            int slide=solve(s,k,i+1,j+1,t);
+
+            return t[i][j] = max({grow,take,slide});
+        }
+
+        int slide=solve(s,k,i+1,j+1,t);
+        int grow=solve(s,k,i,j+1,t);
+
+        return t[i][j]=max(slide,grow);
+    }
+
+    int maxPalindromes(string s, int k) {
+        int n = s.size();
+        if(k==1)return n;
+        vector<vector<int>> t(n,vector<int>(n,-1));
+        return solve(s,k,0,k-1,t);
+    }
+};
