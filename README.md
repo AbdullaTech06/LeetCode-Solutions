@@ -254,6 +254,7 @@ pushing leetcode submissions over here
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdullaTech06/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AbdullaTech06/leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -459,6 +460,7 @@ pushing leetcode submissions over here
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AbdullaTech06/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbdullaTech06/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -698,6 +700,7 @@ pushing leetcode submissions over here
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbdullaTech06/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/AbdullaTech06/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbdullaTech06/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
