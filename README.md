@@ -48,6 +48,7 @@ pushing leetcode submissions over here
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdullaTech06/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdullaTech06/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -412,6 +413,7 @@ pushing leetcode submissions over here
 | [1563-stone-game-v](https://github.com/AbdullaTech06/leetcode/tree/main/1563-stone-game-v/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/AbdullaTech06/leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdullaTech06/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/AbdullaTech06/leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -645,6 +647,7 @@ pushing leetcode submissions over here
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/AbdullaTech06/leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/AbdullaTech06/leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdullaTech06/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -806,6 +809,7 @@ pushing leetcode submissions over here
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/AbdullaTech06/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbdullaTech06/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdullaTech06/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AbdullaTech06/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/AbdullaTech06/leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -849,6 +853,7 @@ pushing leetcode submissions over here
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AbdullaTech06/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AbdullaTech06/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdullaTech06/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbdullaTech06/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdullaTech06/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
