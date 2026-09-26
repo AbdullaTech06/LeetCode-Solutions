@@ -52,6 +52,7 @@ pushing leetcode submissions over here
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbdullaTech06/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AbdullaTech06/leetcode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdullaTech06/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AbdullaTech06/leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -122,6 +123,7 @@ pushing leetcode submissions over here
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/AbdullaTech06/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/AbdullaTech06/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -421,6 +423,7 @@ pushing leetcode submissions over here
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/AbdullaTech06/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AbdullaTech06/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/AbdullaTech06/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/AbdullaTech06/leetcode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AbdullaTech06/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
