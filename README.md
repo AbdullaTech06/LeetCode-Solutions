@@ -172,6 +172,7 @@ pushing leetcode submissions over here
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/AbdullaTech06/leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AbdullaTech06/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbdullaTech06/leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -389,6 +390,7 @@ pushing leetcode submissions over here
 | [0992-subarrays-with-k-different-integers](https://github.com/AbdullaTech06/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/AbdullaTech06/leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AbdullaTech06/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdullaTech06/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/AbdullaTech06/leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -513,6 +515,7 @@ pushing leetcode submissions over here
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/AbdullaTech06/leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
