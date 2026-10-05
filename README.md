@@ -108,6 +108,7 @@ pushing leetcode submissions over here
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/AbdullaTech06/leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0856-score-of-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -627,6 +628,7 @@ pushing leetcode submissions over here
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/AbdullaTech06/leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [0856-score-of-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/AbdullaTech06/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/AbdullaTech06/leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AbdullaTech06/leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -1379,6 +1381,7 @@ pushing leetcode submissions over here
 | [0022-generate-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbdullaTech06/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
