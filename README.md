@@ -77,6 +77,7 @@ pushing leetcode submissions over here
 | [3731-find-missing-elements](https://github.com/AbdullaTech06/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +500,7 @@ pushing leetcode submissions over here
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/AbdullaTech06/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -548,6 +550,7 @@ pushing leetcode submissions over here
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/AbdullaTech06/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -566,6 +569,7 @@ pushing leetcode submissions over here
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbdullaTech06/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -820,6 +824,7 @@ pushing leetcode submissions over here
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1050,6 +1055,7 @@ pushing leetcode submissions over here
 | [3614-process-string-with-special-operations-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/AbdullaTech06/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1073,6 +1079,7 @@ pushing leetcode submissions over here
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
