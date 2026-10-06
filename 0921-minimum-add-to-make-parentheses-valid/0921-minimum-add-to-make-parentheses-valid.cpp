@@ -15,6 +15,6 @@ public:
                 }
             }
         }
-        return st.empty()?cnt:st.size()+cnt;
+        return st.size()+cnt;
     }
 };
