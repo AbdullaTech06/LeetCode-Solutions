@@ -502,6 +502,7 @@ pushing leetcode submissions over here
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/AbdullaTech06/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -552,6 +553,7 @@ pushing leetcode submissions over here
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/AbdullaTech06/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -689,6 +691,7 @@ pushing leetcode submissions over here
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -997,6 +1000,7 @@ pushing leetcode submissions over here
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbdullaTech06/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdullaTech06/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
