@@ -59,6 +59,7 @@ pushing leetcode submissions over here
 | [2540-minimum-common-value](https://github.com/AbdullaTech06/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbdullaTech06/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AbdullaTech06/leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -194,6 +195,7 @@ pushing leetcode submissions over here
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbdullaTech06/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbdullaTech06/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbdullaTech06/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -291,6 +293,7 @@ pushing leetcode submissions over here
 | [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AbdullaTech06/leetcode/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdullaTech06/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbdullaTech06/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -466,6 +469,7 @@ pushing leetcode submissions over here
 | [2778-sum-of-squares-of-special-elements](https://github.com/AbdullaTech06/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbdullaTech06/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbdullaTech06/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
