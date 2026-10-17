@@ -74,6 +74,7 @@ pushing leetcode submissions over here
 | [3483-unique-3-digit-even-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbdullaTech06/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbdullaTech06/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbdullaTech06/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -499,6 +500,7 @@ pushing leetcode submissions over here
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbdullaTech06/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbdullaTech06/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbdullaTech06/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AbdullaTech06/leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -566,6 +568,7 @@ pushing leetcode submissions over here
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbdullaTech06/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/AbdullaTech06/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AbdullaTech06/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
