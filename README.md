@@ -463,6 +463,7 @@ pushing leetcode submissions over here
 | [2126-destroying-asteroids](https://github.com/AbdullaTech06/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdullaTech06/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/AbdullaTech06/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbdullaTech06/leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -558,6 +559,7 @@ pushing leetcode submissions over here
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AbdullaTech06/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AbdullaTech06/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/AbdullaTech06/leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AbdullaTech06/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/AbdullaTech06/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbdullaTech06/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
