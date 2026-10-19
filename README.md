@@ -755,6 +755,7 @@ pushing leetcode submissions over here
 | [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdullaTech06/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2235-add-two-integers](https://github.com/AbdullaTech06/leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/AbdullaTech06/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AbdullaTech06/leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
