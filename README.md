@@ -523,6 +523,7 @@ pushing leetcode submissions over here
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbdullaTech06/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/AbdullaTech06/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
@@ -581,6 +582,7 @@ pushing leetcode submissions over here
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/AbdullaTech06/leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbdullaTech06/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting Sort
@@ -789,6 +791,7 @@ pushing leetcode submissions over here
 | [3871-count-commas-in-range-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/AbdullaTech06/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbdullaTech06/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1040,6 +1043,7 @@ pushing leetcode submissions over here
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbdullaTech06/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbdullaTech06/leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/AbdullaTech06/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
