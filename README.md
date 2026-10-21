@@ -179,6 +179,7 @@ pushing leetcode submissions over here
 | [0605-can-place-flowers](https://github.com/AbdullaTech06/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbdullaTech06/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbdullaTech06/leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
@@ -252,6 +253,7 @@ pushing leetcode submissions over here
 | [0516-longest-palindromic-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/AbdullaTech06/leetcode/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbdullaTech06/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/AbdullaTech06/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbdullaTech06/leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -390,6 +392,7 @@ pushing leetcode submissions over here
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/AbdullaTech06/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbdullaTech06/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/AbdullaTech06/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0697-degree-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/0697-degree-of-an-array/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AbdullaTech06/leetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -549,6 +552,7 @@ pushing leetcode submissions over here
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbdullaTech06/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0721-accounts-merge](https://github.com/AbdullaTech06/leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0846-hand-of-straights](https://github.com/AbdullaTech06/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AbdullaTech06/leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -1461,4 +1465,8 @@ pushing leetcode submissions over here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AbdullaTech06/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbdullaTech06/leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
