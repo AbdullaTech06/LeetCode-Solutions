@@ -138,6 +138,7 @@ pushing leetcode submissions over here
 | [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2390-removing-stars-from-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbdullaTech06/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbdullaTech06/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -681,6 +682,7 @@ pushing leetcode submissions over here
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbdullaTech06/leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/AbdullaTech06/leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1099,6 +1101,7 @@ pushing leetcode submissions over here
 | [1260-shift-2d-grid](https://github.com/AbdullaTech06/leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/AbdullaTech06/leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbdullaTech06/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/AbdullaTech06/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbdullaTech06/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
