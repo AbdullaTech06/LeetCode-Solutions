@@ -531,6 +531,7 @@ pushing leetcode submissions over here
 | [3886-sum-of-sortable-integers](https://github.com/AbdullaTech06/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/AbdullaTech06/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AbdullaTech06/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/AbdullaTech06/leetcode/tree/main/4056-number-of-intersecting-interval-pairs-i/) | Easy |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/AbdullaTech06/leetcode/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sorting
