@@ -622,6 +622,7 @@ pushing leetcode submissions over here
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbdullaTech06/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/AbdullaTech06/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/AbdullaTech06/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/AbdullaTech06/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AbdullaTech06/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/AbdullaTech06/leetcode/tree/main/0148-sort-list/) | Medium |
@@ -952,6 +953,7 @@ pushing leetcode submissions over here
 | [0023-merge-k-sorted-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/AbdullaTech06/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/AbdullaTech06/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/AbdullaTech06/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/AbdullaTech06/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AbdullaTech06/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
