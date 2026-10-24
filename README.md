@@ -141,6 +141,7 @@ pushing leetcode submissions over here
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/AbdullaTech06/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbdullaTech06/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbdullaTech06/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -774,6 +775,7 @@ pushing leetcode submissions over here
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AbdullaTech06/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/AbdullaTech06/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/AbdullaTech06/leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2409-count-days-spent-together](https://github.com/AbdullaTech06/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2469-convert-the-temperature](https://github.com/AbdullaTech06/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/AbdullaTech06/leetcode/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbdullaTech06/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
