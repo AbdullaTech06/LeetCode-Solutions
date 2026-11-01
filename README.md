@@ -391,6 +391,7 @@ pushing leetcode submissions over here
 | [0410-split-array-largest-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AbdullaTech06/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/AbdullaTech06/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/0493-reverse-pairs/) | Hard |
@@ -767,6 +768,7 @@ pushing leetcode submissions over here
 | [0282-expression-add-operators](https://github.com/AbdullaTech06/leetcode/tree/main/0282-expression-add-operators/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/AbdullaTech06/leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0412-fizz-buzz](https://github.com/AbdullaTech06/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AbdullaTech06/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/AbdullaTech06/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/AbdullaTech06/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
