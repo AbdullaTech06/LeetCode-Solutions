@@ -447,6 +447,7 @@ pushing leetcode submissions over here
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/AbdullaTech06/leetcode/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/AbdullaTech06/leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/AbdullaTech06/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AbdullaTech06/leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -585,6 +586,7 @@ pushing leetcode submissions over here
 | [1096-brace-expansion-ii](https://github.com/AbdullaTech06/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbdullaTech06/leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -660,6 +662,7 @@ pushing leetcode submissions over here
 | [0876-middle-of-the-linked-list](https://github.com/AbdullaTech06/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0942-di-string-match](https://github.com/AbdullaTech06/leetcode/tree/main/0942-di-string-match/) | Easy |
 | [1048-longest-string-chain](https://github.com/AbdullaTech06/leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AbdullaTech06/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/AbdullaTech06/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -737,6 +740,7 @@ pushing leetcode submissions over here
 | [1004-max-consecutive-ones-iii](https://github.com/AbdullaTech06/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AbdullaTech06/leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AbdullaTech06/leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AbdullaTech06/leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AbdullaTech06/leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
