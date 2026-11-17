@@ -72,6 +72,7 @@ pushing leetcode submissions over here
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbdullaTech06/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AbdullaTech06/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbdullaTech06/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbdullaTech06/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbdullaTech06/leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -319,6 +320,7 @@ pushing leetcode submissions over here
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AbdullaTech06/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbdullaTech06/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdullaTech06/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbdullaTech06/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AbdullaTech06/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbdullaTech06/leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -521,6 +523,7 @@ pushing leetcode submissions over here
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbdullaTech06/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AbdullaTech06/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbdullaTech06/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AbdullaTech06/leetcode/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AbdullaTech06/leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AbdullaTech06/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/AbdullaTech06/leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
