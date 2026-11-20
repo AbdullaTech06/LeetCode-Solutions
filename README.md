@@ -407,6 +407,7 @@ pushing leetcode submissions over here
 | [0494-target-sum](https://github.com/AbdullaTech06/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AbdullaTech06/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0506-relative-ranks](https://github.com/AbdullaTech06/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/AbdullaTech06/leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/AbdullaTech06/leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
@@ -589,6 +590,7 @@ pushing leetcode submissions over here
 | [0435-non-overlapping-intervals](https://github.com/AbdullaTech06/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/AbdullaTech06/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbdullaTech06/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0506-relative-ranks](https://github.com/AbdullaTech06/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/AbdullaTech06/leetcode/tree/main/0561-array-partition/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbdullaTech06/leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1193,6 +1195,7 @@ pushing leetcode submissions over here
 | [0295-find-median-from-data-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/AbdullaTech06/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/AbdullaTech06/leetcode/tree/main/0355-design-twitter/) | Medium |
+| [0506-relative-ranks](https://github.com/AbdullaTech06/leetcode/tree/main/0506-relative-ranks/) | Easy |
 | [0621-task-scheduler](https://github.com/AbdullaTech06/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AbdullaTech06/leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AbdullaTech06/leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
