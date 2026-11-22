@@ -142,6 +142,7 @@ pushing leetcode submissions over here
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/AbdullaTech06/leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbdullaTech06/leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AbdullaTech06/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbdullaTech06/leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/AbdullaTech06/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
